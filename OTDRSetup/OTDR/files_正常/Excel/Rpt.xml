@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="gbk" ?> 
+<WaveReport>
+	<Title text="OTDR测量结果" val="" row="1" col="7" />
+	<Item1 text="地点" val="" row="2" col="1"/>
+	<Item2 text="测试日期" val="" row="2" col="12"/>
+	<Item3 text="光缆种类" val="" row="3" col="1"/>
+	<Item4 text="操作者 " val="" row="3" col="12"/>
+	<Item5 text="光纤长度" val="" row="4" col="1"/>
+	<Item6 text="波长" val="" row="4" col="12"/>
+	<Item7 text="n-ref. 事件号" val="" row="5" col="1"/>
+	<Item8 text="测试设备" val="" row="5" col="12"/>
+	<Item9 text="ref. 事件号" val="" row="6" col="1"/>
+	<Item10 text="测试点1" val="" row="6" col="12"/>
+	<Item11 text="(注释)" val="" row="7" col="1" />
+	<Item12 text="测试点2" val="" row="7" col="12" />
+	<Report number="1">
+		<Curve1>
+			<order text="1" row="13" col="1"/>
+		</Curve1>
+		<Curve2>
+			<order text="1" row="13" col="1"/>
+		</Curve2>
+		<Curve3>
+			<order text="1" row="13" col="1"/>
+		</Curve3>
+		<Curve4>
+			<order text="1" row="13" col="1"/>
+		</Curve4>
+		<Curve5>
+			<order text="1" row="13" col="1"/>
+		</Curve5>
+		<Curve6>
+			<order text="1" row="13" col="1"/>
+		</Curve6>
+		<Curve7>
+			<order text="1" row="13" col="1"/>
+		</Curve7>
+		<Curve8>
+			<order text="1" row="13" col="1"/>
+		</Curve8>
+		</Report>
+</WaveReport>

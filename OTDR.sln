@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OTDR", "OTDR\OTDR.vcproj", "{7915EA38-1D80-40F9-BCF7-982EE01DF547}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OTDR_Setup_general", "OTDRSetup\OTDR_INSTALL.vdproj", "{4365D575-370E-4C88-A992-08EE602D783B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OTDR_Setup_standard", "OTDR_Setup_standard\OTDR_Setup_standard.vdproj", "{FD3E7833-1F2A-45D3-A594-28586566F6E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7915EA38-1D80-40F9-BCF7-982EE01DF547}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{7915EA38-1D80-40F9-BCF7-982EE01DF547}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{7915EA38-1D80-40F9-BCF7-982EE01DF547}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{7915EA38-1D80-40F9-BCF7-982EE01DF547}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7915EA38-1D80-40F9-BCF7-982EE01DF547}.Debug|Win32.Build.0 = Debug|Win32
+		{7915EA38-1D80-40F9-BCF7-982EE01DF547}.Release|Any CPU.ActiveCfg = Release|Win32
+		{7915EA38-1D80-40F9-BCF7-982EE01DF547}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{7915EA38-1D80-40F9-BCF7-982EE01DF547}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{7915EA38-1D80-40F9-BCF7-982EE01DF547}.Release|Win32.ActiveCfg = Release|Win32
+		{7915EA38-1D80-40F9-BCF7-982EE01DF547}.Release|Win32.Build.0 = Release|Win32
+		{4365D575-370E-4C88-A992-08EE602D783B}.Debug|Any CPU.ActiveCfg = Debug
+		{4365D575-370E-4C88-A992-08EE602D783B}.Debug|Any CPU.Build.0 = Debug
+		{4365D575-370E-4C88-A992-08EE602D783B}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{4365D575-370E-4C88-A992-08EE602D783B}.Debug|Mixed Platforms.Build.0 = Debug
+		{4365D575-370E-4C88-A992-08EE602D783B}.Debug|Win32.ActiveCfg = Debug
+		{4365D575-370E-4C88-A992-08EE602D783B}.Release|Any CPU.ActiveCfg = Release
+		{4365D575-370E-4C88-A992-08EE602D783B}.Release|Any CPU.Build.0 = Release
+		{4365D575-370E-4C88-A992-08EE602D783B}.Release|Mixed Platforms.ActiveCfg = Release
+		{4365D575-370E-4C88-A992-08EE602D783B}.Release|Mixed Platforms.Build.0 = Release
+		{4365D575-370E-4C88-A992-08EE602D783B}.Release|Win32.ActiveCfg = Release
+		{FD3E7833-1F2A-45D3-A594-28586566F6E7}.Debug|Any CPU.ActiveCfg = Debug
+		{FD3E7833-1F2A-45D3-A594-28586566F6E7}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{FD3E7833-1F2A-45D3-A594-28586566F6E7}.Debug|Win32.ActiveCfg = Debug
+		{FD3E7833-1F2A-45D3-A594-28586566F6E7}.Release|Any CPU.ActiveCfg = Release
+		{FD3E7833-1F2A-45D3-A594-28586566F6E7}.Release|Mixed Platforms.ActiveCfg = Release
+		{FD3E7833-1F2A-45D3-A594-28586566F6E7}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="gbk" ?> 
+<WaveReport>
+	<P1>
+	    <Title text="OTDR测量结果" val="" row="1" col="1" />
+		<Item1 text="地点" val="" row="2" col="1"/>
+		<Item2 text="测试日期" val="" row="2" col="6"/>
+		<Item3 text="光缆种类" val="" row="3" col="1"/>
+		<Item4 text="操作者" val="" row="3" col="6"/>
+		<Item5 text="光纤长度" val="" row="4" col="1"/>
+		<Item6 text="波长" val="" row="4" col="6"/>
+		<Item7 text="n-ref. 事件号" val="" row="5" col="1"/>
+		<Item8 text="测试设备" val="" row="5" col="6"/>
+		<Item9 text="ref. 事件号" val="" row="6" col="1"/>
+		<Item10 text="测试点1" val="" row="6" col="6"/>
+		<Item11 text="(注释)" val="" row="7" col="1" />
+		<Item12 text="测试点2" val="" row="7" col="6" />
+		<Traces>
+			<Trace1 file="trace1.bmp" fromcell="B11">
+				<Item1 text="总损耗" val="" row="14" col="1"/>
+				<Item2 text="芯号" val="" row="10" col="1"/>
+				<Item3 text="测量方向" val="" row="14" col="10"/>
+			</Trace1>
+		</Traces>
+		<EventList>
+		      <Title text="事件列表" row="31" col="1"/>
+			  <Table>
+			      <Cols>
+					<Col name="Order" text="事件序号" unit="" row="32" col="1" />
+					<Col name="SectionDist" text="距离" unit="(Km)" row="32" col="3" />
+					<Col name="Segment" text="段" unit="(Km)" row="32" col="4"/>
+					<Col name="Loss" text="损耗" unit="(dB)" row="32" col="5"/>
+					<Col name="Total Loss" text="总损耗" unit="(dB)" row="32" col="6"/>
+					<Col name="Slope" text="斜率" unit="(dB/Km)" row="32" col="7"/>
+					<Col name="Reflection" text="反射" unit="dB" row="32" col="9"/>
+				  </Cols>
+				  <Rows>
+					<Row>
+						<Order val="1" row="48" col="1"/>
+						<Dist val="0.01" row="48" col="3"/>
+					</Row>
+					<Row>
+						<Order val="2" row="48" col="1"/>
+						<Dist val="2" row="48" col="3"/>
+					</Row>
+				  </Rows>
+			  </Table>
+		</EventList>
+	</P1>
+	<P2>
+	    <Title text="OTDR测量结果" val="" row="1" col="1" />
+		<Item1 text="地点" val="" row="2" col="1"/>
+		<Item2 text="测试日期" val="" row="2" col="6"/>
+		<Item3 text="光缆种类" val="" row="3" col="1"/>
+		<Item4 text="操作者" val="" row="3" col="6"/>
+		<Item5 text="光纤长度" val="" row="4" col="1"/>
+		<Item6 text="波长" val="" row="4" col="6"/>
+		<Item7 text="n-ref. 事件号" val="" row="5" col="1"/>
+		<Item8 text="测试设备" val="" row="5" col="6"/>
+		<Item9 text="ref. 事件号" val="" row="6" col="1"/>
+		<Item10 text="测试点1" val="" row="6" col="6"/>
+		<Item11 text="(注释)" val="" row="7" col="1" />
+		<Item12 text="测试点2" val="" row="7" col="6" />
+		<Traces>
+			<Trace1 file="trace1.bmp" fromcell="B11">
+				<Item1 text="总损耗" val="" row="14" col="1"/>
+				<Item2 text="芯号" val="" row="10" col="1"/>
+				<Item3 text="测量方向" val="" row="14" col="10"/>
+			</Trace1>
+			<Trace2 file="trace2.bmp" fromcell="B43">
+				<Item1 text="总损耗" val="" row="45" col="1"/>
+				<Item2 text="芯号" val="" row="42" col="1"/>
+				<Item3 text="测量方向" val="" row="45" col="10"/>
+			</Trace2>
+		</Traces>
+	</P2>
+	<P4>
+	    <Title text="OTDR测量结果" val="" row="1" col="1" />
+		<Item1 text="地点" val="" row="2" col="1"/>
+		<Item2 text="测试日期" val="" row="2" col="8"/>
+		<Item3 text="光缆种类" val="" row="3" col="1"/>
+		<Item4 text="操作者" val="" row="3" col="8"/>
+		<Item5 text="光纤长度" val="" row="4" col="1"/>
+		<Item6 text="波长" val="" row="4" col="8"/>
+		<Item7 text="n-ref. 事件号" val="" row="5" col="1"/>
+		<Item8 text="测试设备" val="" row="5" col="8"/>
+		<Item9 text="ref. 事件号" val="" row="6" col="1"/>
+		<Item10 text="测试点1" val="" row="6" col="8"/>
+		<Item11 text="(注释)" val="" row="7" col="1" />
+		<Item12 text="测试点2" val="" row="7" col="8" />
+		<Traces>
+			<Trace1 file="trace1.bmp" fromcell="A12">
+				<Item1 text="总损耗" val="" row="9" col="1"/>
+				<Item2 text="芯号" val="" row="10" col="1"/>
+				<Item3 text="测量方向" val="" row="9" col="10"/>
+			</Trace1>
+			<Trace2 file="trace2.bmp" fromcell="H12">
+				<Item1 text="总损耗" val="" row="9" col="1"/>
+				<Item2 text="芯号" val="" row="10" col="8"/>
+				<Item3 text="测量方向" val="" row="9" col="23"/>
+			</Trace2>
+			<Trace3 file="trace3.bmp" fromcell="A45">
+				<Item1 text="总损耗" val="" row="36" col="1"/>
+				<Item2 text="芯号" val="" row="43" col="1"/>
+				<Item3 text="测量方向" val="" row="36" col="10"/>
+			</Trace3>
+			<Trace4 file="trace4.bmp" fromcell="H45">
+				<Item1 text="总损耗" val="" row="36" col="1"/>
+				<Item2 text="芯号" val="" row="43" col="8"/>
+				<Item3 text="测量方向" val="" row="36" col="23"/>
+			</Trace4>
+		</Traces>
+	</P4>
+	<P6>
+	    <Title text="OTDR测量结果" val="" row="1" col="1" />
+		<Item1 text="地点" val="" row="2" col="1"/>
+		<Item2 text="测试日期" val="" row="2" col="8"/>
+		<Item3 text="光缆种类" val="" row="3" col="1"/>
+		<Item4 text="操作者" val="" row="3" col="8"/>
+		<Item5 text="光纤长度" val="" row="4" col="1"/>
+		<Item6 text="波长" val="" row="4" col="8"/>
+		<Item7 text="n-ref. 事件号" val="" row="5" col="1"/>
+		<Item8 text="测试设备" val="" row="5" col="8"/>
+		<Item9 text="ref. 事件号" val="" row="6" col="1"/>
+		<Item10 text="测试点1" val="" row="6" col="8"/>
+		<Item11 text="(注释)" val="" row="7" col="1" />
+		<Item12 text="测试点2" val="" row="7" col="8" />
+		<Traces>
+			<Trace1 file="trace1.bmp" fromcell="A12">
+				<Item1 text="总损耗" val="" row="9" col="1"/>
+				<Item2 text="芯号" val="" row="10" col="1"/>
+				<Item3 text="测量方向" val="" row="9" col="10"/>
+			</Trace1>
+			<Trace2 file="trace2.bmp" fromcell="H12">
+				<Item1 text="总损耗" val="" row="9" col="14"/>
+				<Item2 text="芯号" val="" row="10" col="8"/>
+				<Item3 text="测量方向" val="" row="9" col="23"/>
+			</Trace2>
+			<Trace3 file="trace3.bmp" fromcell="A34">
+				<Item1 text="总损耗" val="" row="36" col="1"/>
+				<Item2 text="芯号" val="" row="32" col="1"/>
+				<Item3 text="测量方向" val="" row="36" col="10"/>
+			</Trace3>
+			<Trace4 file="trace4.bmp" fromcell="H34">
+				<Item1 text="总损耗" val="" row="36" col="14"/>
+				<Item2 text="芯号" val="" row="32" col="8"/>
+				<Item3 text="测量方向" val="" row="36" col="23"/>
+			</Trace4>
+			<Trace5 file="trace5.bmp" fromcell="A56">
+				<Item1 text="总损耗" val="" row="63" col="1"/>
+				<Item2 text="芯号" val="" row="54" col="1"/>
+				<Item3 text="测量方向" val="" row="63" col="10"/>
+			</Trace5>
+			<Trace6 file="trace6.bmp" fromcell="H56">
+				<Item1 text="总损耗" val="" row="63" col="14"/>
+				<Item2 text="芯号" val="" row="54" col="8"/>
+				<Item3 text="测量方向" val="" row="63" col="23"/>
+			</Trace6>
+		</Traces>
+	</P6>
+	<P8>
+	    <Title text="OTDR测量结果" val="" row="1" col="1" />
+		<Traces>
+			<Trace1 file="trace1.bmp" fromcell="A5">
+				<Item1 text="总损耗" val="" row="2" col="1"/>
+				<Item2 text="芯号" val="" row="3" col="1"/>
+				<Item3 text="测量方向" val="" row="2" col="10"/>
+			</Trace1>
+			<Trace2 file="trace2.bmp" fromcell="H5">
+				<Item1 text="总损耗" val="" row="2" col="14"/>
+				<Item2 text="芯号" val="" row="3" col="8"/>
+				<Item3 text="测量方向" val="" row="2" col="23"/>
+			</Trace2>
+			<Trace3 file="trace3.bmp" fromcell="A26">
+				<Item1 text="总损耗" val="" row="27" col="1"/>
+				<Item2 text="芯号" val="" row="24" col="1"/>
+				<Item3 text="测量方向" val="" row="27" col="10"/>
+			</Trace3>
+			<Trace4 file="trace4.bmp" fromcell="H26">
+				<Item1 text="总损耗" val="" row="27" col="14"/>
+				<Item2 text="芯号" val="" row="24" col="8"/>
+				<Item3 text="测量方向" val="" row="27" col="23"/>
+			</Trace4>
+			<Trace5 file="trace5.bmp" fromcell="A47">
+				<Item1 text="总损耗" val="" row="52" col="1"/>
+				<Item2 text="芯号" val="" row="45" col="1"/>
+				<Item3 text="测量方向" val="" row="52" col="10"/>
+			</Trace5>
+			<Trace6 file="trace6.bmp" fromcell="H47">
+				<Item1 text="总损耗" val="" row="52" col="14"/>
+				<Item2 text="芯号" val="" row="45" col="8"/>
+				<Item3 text="测量方向" val="" row="52" col="23"/>
+			</Trace6>
+			<Trace7 file="trace7.bmp" fromcell="A68">
+				<Item1 text="总损耗" val="" row="77" col="1"/>
+				<Item2 text="芯号" val="" row="66" col="1"/>
+				<Item3 text="测量方向" val="" row="77" col="10"/>
+			</Trace7>
+			<Trace8 file="trace8.bmp" fromcell="H68">
+				<Item1 text="总损耗" val="" row="77" col="14"/>
+				<Item2 text="芯号" val="" row="66" col="8"/>
+				<Item3 text="测量方向" val="" row="77" col="23"/>
+			</Trace8>
+			</Traces>
+	</P8>
+</WaveReport>
